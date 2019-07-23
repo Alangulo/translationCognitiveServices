@@ -1,0 +1,11 @@
+C:\Users\alangulo\translate-sample\bin\Debug\netcoreapp2.2\translate-sample.deps.json
+C:\Users\alangulo\translate-sample\bin\Debug\netcoreapp2.2\translate-sample.runtimeconfig.json
+C:\Users\alangulo\translate-sample\bin\Debug\netcoreapp2.2\translate-sample.runtimeconfig.dev.json
+C:\Users\alangulo\translate-sample\bin\Debug\netcoreapp2.2\translate-sample.dll
+C:\Users\alangulo\translate-sample\bin\Debug\netcoreapp2.2\translate-sample.pdb
+C:\Users\alangulo\translate-sample\obj\Debug\netcoreapp2.2\translate-sample.csprojAssemblyReference.cache
+C:\Users\alangulo\translate-sample\obj\Debug\netcoreapp2.2\translate-sample.csproj.CoreCompileInputs.cache
+C:\Users\alangulo\translate-sample\obj\Debug\netcoreapp2.2\translate-sample.AssemblyInfoInputs.cache
+C:\Users\alangulo\translate-sample\obj\Debug\netcoreapp2.2\translate-sample.AssemblyInfo.cs
+C:\Users\alangulo\translate-sample\obj\Debug\netcoreapp2.2\translate-sample.dll
+C:\Users\alangulo\translate-sample\obj\Debug\netcoreapp2.2\translate-sample.pdb
